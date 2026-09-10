@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# dcep-frontend
-<img width="1200" height="1386" alt="dcep_frontend_wireframe" src="https://github.com/user-attachments/assets/41ebfd0e-38d3-4ace-ae52-d0649f01877b" />
-=======
 # DCEP Web Portal — Angular 18 Reference Codebase
 
 Companion code for the DCEP wireframe. Implements the header, hero, quick
@@ -71,4 +67,3 @@ The same pattern is used for `getRecommended()` and `addToCart()`.
 This folder has the application source only (no `angular.json`/`tsconfig.json`
 scaffolding). To actually run it: `ng new dcep-web --standalone`, then drop
 these files into the generated `src/` folder, `npm install`, and `ng serve`.
->>>>>>> eca40b5 (codebase)
